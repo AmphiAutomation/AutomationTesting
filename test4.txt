@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E440-7522
+
+ Directory of C:\Users\Dell\Desktop\MyGitAutomationProject2
+
+21/08/2018  05:19    <DIR>          .
+21/08/2018  05:19    <DIR>          ..
+21/08/2018  04:42               408 index.html.htm
+21/08/2018  04:41                19 test3.txt
+21/08/2018  05:19                 0 test4.txt
+               3 File(s)            427 bytes
+               2 Dir(s)  244,504,297,472 bytes free
